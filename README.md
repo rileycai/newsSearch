@@ -1,6 +1,6 @@
 # newsSearch
-<<<<<<< HEAD
-=======
+
+=====
 
 <p align="left">
   <a href="https://github.com/vuejs/vue">
@@ -14,9 +14,6 @@
   </a>
   <a href="https://github.com/PanJiaChen/vue-element-admin/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
-  </a>
-  <a href="https://github.com/PanJiaChen/vue-element-admin/releases">
-    <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="GitHub release">
   </a>
 </p>
 
