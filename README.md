@@ -1,6 +1,13 @@
+<p align="center">
+  <br>
+  <img width="400" src="./favicon.ico" alt="logo of vue-awesome repository">
+  <br>
+  <br>
+</p>
+
+
 # newsSearch
 
-=====
 
 <p align="left">
   <a href="https://github.com/vuejs/vue">
