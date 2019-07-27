@@ -11,16 +11,13 @@
         name: 'app',
         components: {},
         methods:{
-            
+
         },
         mounted(){
 
         },
         watch:{
             $route(to,from){
-                // if (!to.matched.length) {
-                //     this.$router.push('/404');
-                // }
             }
         }
     }

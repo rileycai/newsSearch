@@ -52,7 +52,6 @@ const appAdmin = new Vue({
 
         };
     },
-    // template: '<App/>',
     router,
     store,
     render: h => h(App)
